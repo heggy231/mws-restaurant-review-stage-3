@@ -1,4 +1,19 @@
 # mws-restaurant-review-stage-3
+
+System Architecture
+### Client and Server
+---
+How to run the file:
+1) Server: runs on sails.js and its needed to get the restaurants as json. Instruction on how to Run the Server go to *server > README.md*
+2) Client: interacts with the server managing the data. Instruction on how to Run client go to *client > README.md*
+
+## Instructions
+Inside the client and server directories, you will find the information need it to run each one individually.
+The server must be running in order to get the data.
+
+
+
+
 Restaurant Reviews Stage 3 is progressive web app with functionalities such as edit reviews , defer updates until connected, meet 90 or better performance audit score.
 
 This repository contains two directories:
